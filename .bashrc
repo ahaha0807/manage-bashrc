@@ -96,6 +96,10 @@ alias be='bundle exec'
 alias git='hub'
 alias gst='git status'
 alias gc='git commit'
+alias gad='git add .'
+alias g='git'
+alias ..='cd ..'
+alias ...='cd ../..'
 
 # Add an "alert" alias for long running commands.  Use like so:
 #   sleep 10; alert
